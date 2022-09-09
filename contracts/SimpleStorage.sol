@@ -4,7 +4,7 @@
 
 // Place your solidity files in this contracts folder and run the compile.js file using node compile.js file in project directory to compile your contracts.
 
-pragma solidity ^0.7.0;
+pragma solidity ^0.8.0;
 
 contract SimpleStorage {
   string value;
