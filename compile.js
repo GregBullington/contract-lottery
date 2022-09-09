@@ -63,7 +63,7 @@ if (
     sourceHash
 ) {
   console.log(
-    'No changes in .sol files detected... \nSkiping compile script...\n'
+    'No changes in .sol files detected... \nSkipping compile script...\n'
   );
 } else {
   // write the source hash there at the end of
